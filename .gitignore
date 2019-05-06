@@ -1,0 +1,7 @@
+Debug/
+*.class
+bin/
+out/
+
+#Intellij
+.idea/
